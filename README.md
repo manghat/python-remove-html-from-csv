@@ -10,8 +10,9 @@ The python script runs 2 versions of cleaning and returns a file with 4 addition
 ## How to use
 
 1. Place the file in the same directory as the csv file
-2. open terminal and type: python remove_html.py
-3. Follow the instructions!
+2. open terminal at the file location *windows* : `ctrl`+ `r` then `cmd` then `cd <path to file>`
+3. Type: `python remove_html.py` and hit enter
+3. Follow the instructions
 4. You are done.
 
 ## Future plans
