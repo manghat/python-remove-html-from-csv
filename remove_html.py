@@ -76,8 +76,8 @@ a['clean'] = a[col].apply(cleanhtml)
 # In[17]:
 
 
-a['clean_bs'] = a['question'].apply(remove_html_escape)
 
+a['clean_bs'] = a[col].apply(remove_html_escape)
 
 # In[18]:
 
